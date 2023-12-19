@@ -1,7 +1,7 @@
 {
   "name": "peertube-plugin-privacysettings",
   "description": "Disables all visibility settings except for Internal",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "author": "NotRelevant",
   "bugs": "",
   "license": "Unlicense",
