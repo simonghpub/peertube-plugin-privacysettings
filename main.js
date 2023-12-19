@@ -18,4 +18,4 @@ async function unregister () {
 module.exports = {
   register,
   unregister
-}
+};
