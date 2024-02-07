@@ -1,9 +1,9 @@
 {
   "name": "peertube-plugin-privacysettings",
   "description": "Disables all visibility settings except for Internal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "NotRelevant",
-  "bugs": "",
+  "bugs": "https://github.com/simonghpub/peertube-plugin-privacysettings/issues",
   "license": "Unlicense",
   "clientScripts": [],
   "css": [],
@@ -12,9 +12,9 @@
     "webpack-cli": "^4.7.2"
   },
   "engine": {
-    "peertube": ">=1.3.0"
+    "peertube": ">=6.0.3"
   },
-  "homepage": "",
+  "homepage": "https://github.com/simonghpub/peertube-plugin-privacysettings",
   "keywords": [
     "peertube",
     "plugin"

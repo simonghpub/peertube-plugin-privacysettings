@@ -5,10 +5,10 @@ async function register ({
   videoPrivacyManager
 }) {
 
-  videoPrivacyManager.deleteConstant(1)
-  videoPrivacyManager.deleteConstant(2)
-  videoPrivacyManager.deleteConstant(3)
-  videoPrivacyManager.deleteConstant(5)
+  videoPrivacyManager.deleteConstant(1) //Public
+  videoPrivacyManager.deleteConstant(2) //Unlisted
+  videoPrivacyManager.deleteConstant(3) //Private
+  videoPrivacyManager.deleteConstant(5) //Password protected - Added in 6.0.3.
 }
 
 async function unregister () {
